@@ -28,7 +28,7 @@ body {
     background-size: 40% 50%, 75% 85%;
     
 }
-.proofs {
+.main {
     width: 850px;
     height: 480px;
     display: grid;
@@ -197,7 +197,7 @@ body {
 
     }
 
-    .proofs {
+    .main {
         width: 400px;
         height: 1300px;
         display: grid;
